@@ -1,0 +1,11 @@
+a preceptron is a type of artifical neuron used in supervised learning to classify input data into two parts 
+The Perceptron
+The Perceptron is one of the simplest ANN architectures, invented in 1957 by Frank
+Rosenblatt. It is based on a slightly different artificial neuron (see Figure 10-4) called
+a threshold logic unit (TLU), or sometimes a linear threshold unit (LTU). The inputs
+and output are numbers (instead of binary on/off values), and each input connection
+is associated with a weight
+ basic code  to train a perceprtron
+
+
+
